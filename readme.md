@@ -5,7 +5,7 @@ Derived from the work of Dave Random's [cloud-to-butt](https://github.com/DaveRa
 
 ## Installing
 
-Download [TrumpToVoldemort.xpi](https://github.com/NyckJohnson/trump-to-voldemort-mozilla/blob/master/CloudToButt.xpi?raw=true)
+Download [TrumpToVoldemort.xpi](https://github.com/NyckJohnson/trump-to-voldemort-mozilla/blob/master/TrumpToVoldemort.xpi?raw=true)
 
 
 ## Building
