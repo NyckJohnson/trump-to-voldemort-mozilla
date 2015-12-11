@@ -1,3 +1,3 @@
 content	Trump-to-voldemort	chrome/content/	contentaccessible=yes
 
-overlay	chrome://browser/content/browser.xul	chrome://trmp-to-voldemort/content/main.xul
+overlay	chrome://browser/content/browser.xul	chrome://trump-to-voldemort/content/main.xul
